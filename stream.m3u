@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="anadolu-hisari" tvg-logo="" group-title="Anadolu Hisarı", Anadolu Hisarı (576p)
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_anadolu_hisari.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="anadolu-hisari-yedek" tvg-logo="" group-title="Anadolu Hisarı - Yedek", Anadolu Hisarı - Yedek (576p)
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_anadolu_hisari.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="beyazit-kule-1" tvg-logo="" group-title="Beyazıt Kule 1", Beyazıt Kule 1 (576p)
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_beyazit_kule_1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="beyazit-kule-1-yedek" tvg-logo="" group-title="Beyazıt Kule 1 - Yedek", Beyazıt Kule 1 - Yedek (576p)
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_kule_1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="beyazit-kule-2" tvg-logo="" group-title="Beyazıt Kule 2", Beyazıt Kule 2 (576p)
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_beyazit_kule_2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="beyazit-kule-2-yedek" tvg-logo="" group-title="Beyazıt Kule 2 - Yedek", Beyazıt Kule 2 - Yedek (576p)
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_kule_2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="beyazit-meydan" tvg-logo="" group-title="Beyazıt Meydan", Beyazıt Meydan (576p)
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_beyazit_meydan.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="beyazit-meydan-yedek" tvg-logo="" group-title="Beyazıt Meydan - Yedek", Beyazıt Meydan - Yedek (576p)
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_meydan.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="buy-k-camlica" tvg-logo="" group-title="Büyük Çamlıca", Büyük Çamlıca (576p)
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_buyuk_camlica.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="buy-k-camlica-yedek" tvg-logo="" group-title="Büyük Çamlıca - Yedek", Büyük Çamlıca - Yedek (576p)
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_buyuk_camlica.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="dragos" tvg-logo="" group-title="Dragos", Dragos (576p)
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_dragos.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="dragos-yedek" tvg-logo="" group-title="Dragos - Yedek", Dragos - Yedek (576p)
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_dragos.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="eminonu" tvg-logo="" group-title="Eminönü", Eminönü (576p)
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_eminonu.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="eminonu-yedek" tvg-logo="" group-title="Eminönü - Yedek", Eminönü - Yedek (576p)
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_eminonu.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="emirgan" tvg-logo="" group-title="Emirgan", Emirgan (576p)
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_emirgan.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="emirgan-yedek" tvg-logo="" group-title="Emirgan - Yedek", Emirgan - Yedek (576p)
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_emirgan.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="eyup-sultan" tvg-logo="" group-title="Eyüp Sultan", Eyüp Sultan (576p)
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_eyup.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="eyup-sultan-yedek" tvg-logo="" group-title="Eyüp Sultan - Yedek", Eyüp Sultan - Yedek (576p)
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_eyup.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="hidiv-kasri-1" tvg-logo="" group-title="Hidiv Kasrı 1", Hidiv Kasrı 1 (576p)
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_hidiv_kasri_1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="hidiv-kasri-1-yedek" tvg-logo="" group-title="Hidiv Kasrı 1 - Yedek", Hidiv Kasrı 1 - Yedek (576p)
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_hidiv_kasri_1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="metrohan" tvg-logo="" group-title="Metrohan", Metrohan (576p)
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_metrohan.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="metrohan-yedek" tvg-logo="" group-title="Metrohan - Yedek", Metrohan - Yedek (576p)
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_metrohan.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="kapali-cars-" tvg-logo="" group-title="Kapalı Çarşı", Kapalı Çarşı (576p)
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_kapali_carsi.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="kapali-cars--yedek" tvg-logo="" group-title="Kapalı Çarşı - Yedek", Kapalı Çarşı - Yedek (576p)
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_kapali_carsi.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="kiz-kulesi-1" tvg-logo="" group-title="Kız Kulesi 1", Kız Kulesi 1 (576p)
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_kiz_kulesi_1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="kiz-kulesi-1-yedek" tvg-logo="" group-title="Kız Kulesi 1 - Yedek", Kız Kulesi 1 - Yedek (576p)
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_kiz_kulesi_1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="miniaturk" tvg-logo="" group-title="Miniaturk", Miniaturk (576p)
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_miniaturk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="miniaturk-yedek" tvg-logo="" group-title="Miniaturk - Yedek", Miniaturk - Yedek (576p)
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_miniaturk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="mis-r-cars-s-" tvg-logo="" group-title="Mısır Çarşısı", Mısır Çarşısı (576p)
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_misir_carsisi.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="mis-r-cars-s--yedek" tvg-logo="" group-title="Mısır Çarşısı - Yedek", Mısır Çarşısı - Yedek (576p)
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_misir_carsisi.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="rumeli-hisari" tvg-logo="" group-title="Rumeli Hisarı", Rumeli Hisarı (576p)
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_salacak.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="rumeli-hisari-yedek" tvg-logo="" group-title="Rumeli Hisarı - Yedek", Rumeli Hisarı - Yedek (576p)
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_salacak.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="sarayburnu" tvg-logo="" group-title="Sarayburnu", Sarayburnu (720p)
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sarachane.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="sarayburnu-yedek" tvg-logo="" group-title="Sarayburnu - Yedek", Sarayburnu - Yedek (720p)
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_sarachane.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="sepetciler-kasri" tvg-logo="" group-title="Sepetçiler Kasrı", Sepetçiler Kasrı (576p)
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sepetciler_kasri.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="sepetciler-kasri-yedek" tvg-logo="" group-title="Sepetçiler Kasrı - Yedek", Sepetçiler Kasrı - Yedek (576p)
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_sepetciler_kasri.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="sultanahmet-2" tvg-logo="" group-title="Sultanahmet 2", Sultanahmet 2 (576p)
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sultanahmet_2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="sultanahmet-2-yedek" tvg-logo="" group-title="Sultanahmet 2 - Yedek", Sultanahmet 2 - Yedek (576p)
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_sultanahmet_2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ulus-parki" tvg-logo="" group-title="Ulus Parkı", Ulus Parkı (576p)
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_ulus_parki.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ulus-parki-yedek" tvg-logo="" group-title="Ulus Parkı - Yedek", Ulus Parkı - Yedek (576p)
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_ulus_parki.stream/playlist.m3u8

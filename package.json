@@ -1,0 +1,17 @@
+{
+  "name": "canli-kameralar",
+  "description": "Türkiye'de yer alan Canlı Kameraların M3U Listesi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
+}

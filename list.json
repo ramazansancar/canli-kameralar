@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Anadolu Hisarı",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_anadolu_hisari.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_anadolu_hisari.stream/playlist.m3u8"
+    },
+    {
+        "name": "Bağdat Caddesi 1",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_bagdat_cad_1.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_bagdat_cad_1.stream/playlist.m3u8"
+    },
+    {
+        "name": "Beyazıt Kule 1",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_beyazit_kule_1.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_kule_1.stream/playlist.m3u8"
+    },
+    {
+        "name": "Beyazıt Kule 2",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_beyazit_kule_2.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_kule_2.stream/playlist.m3u8"
+    },
+    {
+        "name": "Beyazıt Meydan",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_beyazit_meydan.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_meydan.stream/playlist.m3u8"
+    },
+    {
+        "name": "Büyük Çamlıca",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_buyuk_camlica.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_buyuk_camlica.stream/playlist.m3u8"
+    },
+    {
+        "name": "Dragos",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_dragos.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_dragos.stream/playlist.m3u8"
+    },
+    {
+        "name": "Eminönü",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_eminonu.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_eminonu.stream/playlist.m3u8"
+    },
+    {
+        "name": "Emirgan",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_emirgan.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_emirgan.stream/playlist.m3u8"
+    },
+    {
+        "name": "Eyüp Sultan",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_eyup.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_eyup.stream/playlist.m3u8"
+    },
+    {
+        "name": "Hidiv Kasrı 1",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_hidiv_kasri_1.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_hidiv_kasri_1.stream/playlist.m3u8"
+    },
+    {
+        "name": "İstiklal Caddesi 1",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_istiklal_cad_1.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_istiklal_cad_1.stream/playlist.m3u8"
+    },
+    {
+        "name": "Metrohan",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_metrohan.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_metrohan.stream/playlist.m3u8"
+    },
+    {
+        "name": "Kapalı Çarşı",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_kapali_carsi.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_kapali_carsi.stream/playlist.m3u8"
+    },
+    {
+        "name": "Karaköy",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_karakoy.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_karakoy.stream/playlist.m3u8"
+    },
+    {
+        "name": "Kız Kulesi 1",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_kiz_kulesi_1.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_kiz_kulesi_1.stream/playlist.m3u8"
+    },
+    {
+        "name": "Miniaturk",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_miniaturk.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_miniaturk.stream/playlist.m3u8"
+    },
+    {
+        "name": "Mısır Çarşısı",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_misir_carsisi.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_misir_carsisi.stream/playlist.m3u8"
+    },
+    {
+        "name": "Pierre Loti",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_pierloti.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_pierloti.stream/playlist.m3u8"
+    },
+    {
+        "name": "Rumeli Hisarı",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_salacak.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_salacak.stream/playlist.m3u8"
+    },
+    {
+        "name": "Sarayburnu",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sarachane.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_sarachane.stream/playlist.m3u8"
+    },
+    {
+        "name": "Sepetçiler Kasrı",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sepetciler_kasri.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_sepetciler_kasri.stream/playlist.m3u8"
+    },
+    {
+        "name": "Sultanahmet 1",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sultanahmet_1.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_sultanahmet_1.stream/playlist.m3u8"
+    },
+    {
+        "name": "Sultanahmet 2",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sultanahmet_2.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_sultanahmet_2.stream/playlist.m3u8"
+    },
+    {
+        "name": "Taksim",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_taksim.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_taksim.stream/playlist.m3u8"
+    },
+    {
+        "name": "Ulus Parkı",
+        "streamUrl": "https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_ulus_parki.stream/playlist.m3u8",
+        "backupStreamUrl": "https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_ulus_parki.stream/playlist.m3u8"
+    }
+]
