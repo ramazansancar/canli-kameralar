@@ -8,7 +8,7 @@ Bu listeyi kullanmak için VLC Player veya benzeri bir uygulamaya ihtiyacınız 
 
 ## Liste
 
-[M3U](./list.m3u)
+[M3U](./stream.m3u)
 
 ## Kaynak
 
