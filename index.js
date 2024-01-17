@@ -3,7 +3,7 @@ const https = require('https');
 const fs = require('fs');
 
 axios.defaults.httpsAgent = new https.Agent({ rejectUnauthorized: false });
-
+ 
 const replaceTurkishCharacters = (text) => {
     if(!text) return null;
     text = text.replace('ı','i');
@@ -31,7 +31,7 @@ const nameGenerator = (name) => {
 const m3uGenerator = (name, url, resolution = null) => {
     if(!url) return null;
     // #EXTINF:-1 tvg-id="ist-Anadolu-Hisarı.tr" tvg-logo="" group-title="Anadolu Hisarı", İstanbul - Anadolu Hisarı (576p)
-    if(!resolution) return `#EXTINF:-1,${name}\n${url}\n`;
+    if(!resolution) return `#EXTINF:-1 tvg-id="${nameGenerator(name)}" tvg-logo="" group-title="${name}",${name}\n${url}\n`;
     return `#EXTINF:-1 tvg-id="${nameGenerator(name)}" tvg-logo="" group-title="${name}", ${name} (${resolution.height}p)\n${url}\n`;
 };
 
@@ -55,19 +55,21 @@ const getStreamStatus = async (url) => {
         }
     })
     .then((response) => {
+        if(response?.status !== 200) return console.log(`${response?.status}: ${url}`);
         return {
             url: url,
-            status: response.status,
-            resolution: resolutionConverter(response.data.split('\n')[2]),
-            response: response.data
+            status: response?.status,
+            resolution: resolutionConverter(response?.data.split('\n')[2]),
+            response: response?.data
         };
     })
     .catch((error) => {
+        if(error?.response?.status !== 200) return console.log(`${error?.response?.status}: ${url}`);
         return {
             url: url,
-            status: error.response.status,
-            resolution: resolutionConverter(error.response.data.split('\n')[2]),
-            response: error.response.data
+            status: error?.response?.status,
+            resolution: resolutionConverter(error?.response?.data.split('\n')[2]),
+            response: error?.response?.data
         };
     });
 };
@@ -81,25 +83,25 @@ const getStreamStatus = async (url) => {
     urlList = JSON.parse(urlList);
 
     for (let i = 0; i < urlList.length; i++) {
-        if(!urlList[i].streamUrl && !urlList[i].backupStreamUrl) continue;
+        if(!urlList[i]?.streamUrl && !urlList[i]?.backupStreamUrl) continue;
 
-        if(urlList[i].streamUrl) streamStatus = await getStreamStatus(urlList[i].streamUrl);
-        if(urlList[i].backupStreamUrl) backupStreamStatus = await getStreamStatus(urlList[i].backupStreamUrl);
+        if(urlList[i]?.streamUrl) streamStatus = await getStreamStatus(urlList[i].streamUrl);
+        if(urlList[i]?.backupStreamUrl) backupStreamStatus = await getStreamStatus(urlList[i].backupStreamUrl);
 
         status.push(
             {
                 name: urlList[i].name,
                 mainStream: {
-                    url: urlList[i].streamUrl,
-                    status: streamStatus.status,
-                    resolution: streamStatus.resolution,
-                    response: streamStatus.response
+                    url: urlList[i]?.streamUrl,
+                    status: streamStatus?.status,
+                    resolution: streamStatus?.resolution,
+                    response: streamStatus?.response
                 },
                 backupStream: {
-                    url: urlList[i].backupStreamUrl,
-                    status: backupStreamStatus.status,
-                    resolution: backupStreamStatus.resolution,
-                    response: backupStreamStatus.response
+                    url: urlList[i]?.backupStreamUrl,
+                    status: backupStreamStatus?.status,
+                    resolution: backupStreamStatus?.resolution,
+                    response: backupStreamStatus?.response
                 }
             }
         )
