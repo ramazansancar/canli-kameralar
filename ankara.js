@@ -35,7 +35,6 @@ const m3uGenerator = (name, url, resolution = null) => {
     return `#EXTINF:-1 tvg-id="${nameGenerator(name)}" tvg-logo="" group-title="${name}", ${name} (${resolution.height}p)\n${url}\n`;
 };
 
-await axios.get('https://www.izlesene.com/kanal/ankara-buyuksehir-belediyesi/1')
 fs.readFile('./list-ankara.json', 'utf8', async (err, data) => {
     if (err) throw err;
 
